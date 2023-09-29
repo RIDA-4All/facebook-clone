@@ -10,7 +10,7 @@ function MainArea(){
             <div className="Rside">
             <div className="Profile">
                 <img src="/images/4.jpeg"alt="dp"style={{height:"60px",padding:"1rem"}}/>
-                Anubhav Sharma
+                   hjdjskjcnc
             </div>
             <div className="Pro">
             <FaUserFriends color="blue" fontSize="2rem"/>
@@ -66,7 +66,7 @@ function MainArea(){
                         <br></br>
                         <br></br>
                         <br></br>
-                        Anubhav Sharma
+                        dhkcbcKUXZ
                     </div>
                     <div className="Story">
                         <img src="/images/IMG_9267.PNG" alt="IMG" style={{height:"60px", width:"50px",borderRadius:"60%"}}/>
@@ -179,23 +179,23 @@ function MainArea(){
             <div className="concise">
                 <div className="Profilee">
                     <img src="images/1.jpeg" alt="logo" style={{height:"35px", padding:"1rem"}}/>
-                    abcd
+                    abcdncxmxk
                 </div>
                 <div className="Profilee">
                     <img src="images/2.jpeg" alt="logo" style={{height:"35px", padding:"1rem"}}/>
-                    efgh
+                    efghsakc
                 </div>
                 <div className="Profilee">
                     <img src="images/3.jpeg" alt="logo" style={{height:"35px", padding:"1rem"}}/>
-                    ijkl
+                    ijkldkjs
                 </div>
                 <div className="Profilee">
                     <img src="images/4.jpeg" alt="logo" style={{height:"35px", padding:"1rem"}}/>
-                    mnop
+                    mnopsdkj
                 </div>
                 <div className="Profilee">
                     <img src="images/pic1.jpeg" alt="logo" style={{height:"35px", padding:"1rem"}}/>
-                    qrst
+                    qrstaksd
                 </div>
             </div>
             </div>
