@@ -10,7 +10,7 @@ function MainArea(){
             <div className="Rside">
             <div className="Profile">
                 <img src="/images/4.jpeg"alt="dp"style={{height:"60px",padding:"1rem"}}/>
-                   hjdjskjcnc
+                   hjdjskjcnxx
             </div>
             <div className="Pro">
             <FaUserFriends color="blue" fontSize="2rem"/>
